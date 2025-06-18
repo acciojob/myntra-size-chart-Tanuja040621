@@ -1,2 +1,22 @@
-
 /* Your CSS Code here. */
+ width: 60%;
+      margin: 30px auto;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+    }
+    thead {
+		  background-color:#red;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 12px;
+      text-align: center;
+    }
+    th {
+      font-weight: bold;
+    }
+    caption {
+      font-size: 1.5rem;
+      margin-bottom: 15px;
+      font-weight: bold;
+    }
